@@ -4,6 +4,9 @@ This tutorial should demonstrate how easy interactive web applications can be bu
 # Installation
 You need these dependencies:
 
+
+####Inline code
+
 pip install streamlit
 pip install scikit-learn
 pip install nltk
